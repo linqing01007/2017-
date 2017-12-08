@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transition.dtd">
+<html xmlns = "http://www.w3.org/1999/xhtml">
+<head>
+	<title>小薇学软第一课</title>
+	<meta name = "author" content = "ninghaiqing" />
+</head>
+
+<body>
+	<h1>网站一级标题</h1>
+	<ul>
+		<li><a>导航链接一<a></li>
+		<li><a>导航链接二<a></li>
+		<li><a>导航链接三<a></li>
+		<li><a>导航链接四<a></li>
+	<ul>
+	<div id = "first">
+		<h1>文章一级标题</h1>
+		<h2>文章二级标题</h2>
+		<span>文章作者 文章发表时间</span>
+		<p>This is a very long paragraph,actually very long!Oh, my God!My Enlish is so bad.算了，还是用中文吧，这么烂的英文也是没谁了。还要再水几个字，应该差不多了。</p>
+		<p>这是另外一段很长很长的段落，有多长呢，你想要多长就有多长咯，现在还可以继续水，继续水，反正只是测试数据咯。应该也差不多了</p>
+		<p>第三个很长很长的段落<a href ="#">这里有一个链接</a>然后还要继续水下去，哎呀，感觉水不动了，还是谈一下<b>newBee战队</b>的问题吧，为啥米每次打外国队伍都要显得这么菜？</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+		<p>这是另外一段很长很长的段落，有多长呢，你想要多长就有多长咯，现在还可以继续水，继续水，反正只是测试数据咯。应该也差不多了</p>
+		<p>这是另外一段很长很长的段落，有多长呢，你想要多长就有多长咯，现在还可以继续水，继续水，反正只是测试数据咯。<a href = "http://ife.baidu.com" target = "blank">这是一个点击后打开新窗口链接到http://ife.baidu.com</a>应该也差不多了，搞定，收工。</p>
+	</div>
+
+	<div id = "secdon">
+		<h1>另一篇文章一级标题</h1>
+		<h2>文章二级标题</h2>
+		<span>文章作者 文章发表时间</span>
+		<p>This is a very long paragraph,actually very long!Oh, my God!My Enlish is so bad.算了，还是用中文吧，这么烂的英文也是没谁了。还要再水几个字，应该差不多了。</p>
+		<p>这是另外一段很长很长的段落，有多长呢，你想要多长就有多长咯，现在还可以继续水，继续水，反正只是测试数据咯。应该也差不多了</p>
+		<p>这是另外一段很长很长的段落，有多长呢，你想要多长就有多长咯，现在还可以继续水，继续水，反正只是测试数据咯。<a href = "http://ife.baidu.com" target = "blank">这是一个点击后打开新窗口链接到http://ife.baidu.com</a>应该也差不多了，搞定，收工。</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+		<ul>
+			<li>列表项目一</li>
+			<li>列表项目二</li>
+			<li>列表项目三</li>
+		</ul>
+		<h2>图片</h2>
+		<p>好看的图片</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+		<p>好看的图片</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+		<p>好看的图片</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+		<p>好看的图片</p>
+		<img src = "test.jpg" alt = "test.jpg" />
+	</div>
+
+	<div>
+		<h1>最后一篇文章一级标题</h1>
+		<h2>文章二级标题</h2>
+		<span>文章作者 文章发表时间</span>
+		<ol>
+			<li>排名1</li>
+			<li>排名2</li>
+			<li>排名3</li>
+		</ol>
+		<p>下面是一个表格，给表格加了一个border="1"，好让你看出是一个表格</p>
+		<table border = "1">
+			<thead>
+				<tr>
+					<th>表头</th>
+					<th>表头</th>
+					<th>表头</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td>总计</td>
+					<td colspan>
+		</table>
+	</div>
+
+
+</body>
+</html>
