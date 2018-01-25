@@ -1,0 +1,1 @@
+1.对.part-c .header h4的字体样式要用font:bold 42px/16px  黑体;这样的形式，不能分开写，否则会导致h4与后面的span标签元素错位
